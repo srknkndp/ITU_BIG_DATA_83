@@ -1,1 +1,2 @@
-Ortak proje gelistirme amaciyla kurulmustur. Guncellenecektir.
+Ortak proje gelistirme amaciyla kurulmustur.
+test amaçlıdır.

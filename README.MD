@@ -1,0 +1,1 @@
+Ortak proje gelistirme amaciyla kurulmustur. Guncellenecektir.
